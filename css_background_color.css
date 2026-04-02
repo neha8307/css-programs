@@ -1,0 +1,18 @@
+/* CSS Backgrounds
+The CSS background properties are used to add background effects for elements.
+
+
+/* Background color */
+
+body {
+    background-color: lightblue;
+}
+
+/* Opacity / Transparency
+
+The opacity property specifies the opacity/transparency of an element. It can take a value from 0.0 - 1.0. The lower value, the more transparent: */
+
+div {
+    background-color: green;
+    opacity: 0.3;
+}
